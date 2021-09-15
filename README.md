@@ -1,8 +1,8 @@
 # Switch-Resolution
 Switch Resolution for ASUS Zephyrus G14 or other notebook with 2560x1440 resolution.
 
-Win + Alt + PgUp to set 3200x1800
-Win + Alt + PgUp to set 2560x1440
+* Win + Alt + PgUp to set 3200x1800
+* Win + Alt + PgUp to set 2560x1440
 
 Or you can modify the script to your own resolution.
 
